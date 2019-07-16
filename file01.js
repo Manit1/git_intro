@@ -1,1 +1,4 @@
-console.log("Hello world")
+function great(name){
+    console.log('hello'+name)
+}
+great('Manit')
